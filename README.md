@@ -1,6 +1,6 @@
 # vue-project
 
-> A Vue.js project
+> A virtual-list component by vue
 
 ## Build Setup
 
